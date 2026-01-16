@@ -1,13 +1,12 @@
-
-<h1 align="center">Hi 👋, I'm cenk aras</h1>
-<h3 align="center">giden gitmiştir gittiği gün bitmiştir hayırlı cumalar</h3>
+<h1 align="center">Hi 👋, I'm CENK ARAS</h1>
+<h3 align="center">giden gitmiştir gittiği gün bitmiştir (Hayırlı Cumalar)</h3>
 
 <center>
 <br>
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="130">
 -->
-<img src="https:/https://giphy.com/gifs/cat-eating-chips-G6TgcESZt8FFk8XV7K>
+<img src=https://giphy.com/gifs/cat-eating-chips-G6TgcESZt8FFk8XV7K width="130">
 </center>
 
 
